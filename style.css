@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.page-header {
+    background-color: #3399CC;
+    text-transform: uppercase;
+}
+
+.page-title {
+    font: 40px century gothic;
+    font-weight: normal;
+    padding-left: 25px;
+    padding-top: 18px;
+    color: white;
+    height: 87px;
+    margin: 0px;
+}
+
+.navigation-bar {
+    background-color: #333333;
+    height: 28px;
+    padding: 5px;
+}
+
+.navigation-items {
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 0px;
+    display: inline;
+}
+
+.navigation-item {
+    display: inline;
+}
+
+.navigation-item a {
+    text-decoration: none;
+    margin-left: 25px;
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+.navigation-img {
+    float: right;
+    margin-right: 15px;
+}
+
+.news-section {
+    width: 60%;
+    border: 1px solid #d9d9d9;
+    margin-top: 20px;
+    margin-left: 54px ;
+    padding-left: 10px;
+}
+
+.news-section h2 {
+    margin-top:5px;
+    margin-bottom: 0px;
+    font:15px sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.news-list {
+    margin: 0px;
+    padding-left: 14px;
+}
+
+.news-list-item {
+    font: 12px sans-serif;
+    margin: 0px;
+    list-style-type: "-";
+    padding: 8px;
+}
+
+.welcome-section h2 {
+    font:15px sans-serif;
+    font-weight: normal;
+}
+
+.welcome-section p {
+    font: 12px sans-serif;
+}
+.welcome-text {
+    margin-top: 0px;
+}
+
+.welcome-section {
+    margin-left: 54px;
+    margin-top:22px;
+    width: 80%;
+}
